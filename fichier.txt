@@ -1,0 +1,3 @@
+Salut l'ami, maintenant on pourra rester ensemble.L'age saisie est : 22 ans.
+L'age de mon frère est de: 16.
+L'age de mon frère est de: 12.
