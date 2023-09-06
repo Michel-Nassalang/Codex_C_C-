@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>book.jpg</file>
+        <file>customer.jpg</file>
+        <file>rub/book_add.jpg</file>
+        <file>rub/customer_add.jpg</file>
+        <file>rub/book_table.jpg</file>
+        <file>rub/pret.jpg</file>
+    </qresource>
+</RCC>

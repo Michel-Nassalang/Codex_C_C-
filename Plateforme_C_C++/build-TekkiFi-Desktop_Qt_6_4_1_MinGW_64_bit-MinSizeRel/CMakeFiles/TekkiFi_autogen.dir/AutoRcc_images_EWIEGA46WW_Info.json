@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-TekkiFi-Desktop_Qt_6_4_1_MinGW_64_bit-MinSizeRel/TekkiFi_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-TekkiFi-Desktop_Qt_6_4_1_MinGW_64_bit-MinSizeRel",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-TekkiFi-Desktop_Qt_6_4_1_MinGW_64_bit-MinSizeRel",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi",
+	"INCLUDE_DIR" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-TekkiFi-Desktop_Qt_6_4_1_MinGW_64_bit-MinSizeRel/TekkiFi_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images/profil.png",
+		"C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images/kev.jpg",
+		"C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images/capdevis.png",
+		"C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images/doing.jpg",
+		"C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images/capfact.png",
+		"C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images/africa.jpeg",
+		"C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images/cap.png",
+		"C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images/pexel.jpg",
+		"C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images/citron.png"
+	],
+	"LOCK_FILE" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-TekkiFi-Desktop_Qt_6_4_1_MinGW_64_bit-MinSizeRel/CMakeFiles/TekkiFi_autogen.dir/AutoRcc_images_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-TekkiFi-Desktop_Qt_6_4_1_MinGW_64_bit-MinSizeRel/CMakeFiles/TekkiFi_autogen.dir/AutoRcc_images_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/TekkiFi/images.qrc",
+	"VERBOSITY" : 0
+}

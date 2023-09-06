@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/citron.png</file>
+        <file>images/profil.png</file>
+        <file>images/pexel.jpg</file>
+        <file>images/cap.png</file>
+        <file>images/capdevis.png</file>
+        <file>images/capfact.png</file>
+        <file>images/kev.jpg</file>
+        <file>images/doing.jpg</file>
+        <file>images/africa.jpeg</file>
+    </qresource>
+</RCC>

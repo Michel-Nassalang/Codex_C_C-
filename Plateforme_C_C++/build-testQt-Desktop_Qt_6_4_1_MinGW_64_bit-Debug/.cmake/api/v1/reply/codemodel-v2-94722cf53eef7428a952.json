@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a01f6fd774561e616966.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "testQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "testQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testQt-Debug-22ee186704098c5ece8d.json",
+					"name" : "testQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testQt_autogen-Debug-ed2fda893abcb4a0b9ef.json",
+					"name" : "testQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testQt_autogen_timestamp_deps-Debug-84d29e0b0d7e095899dd.json",
+					"name" : "testQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-testQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/testQt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

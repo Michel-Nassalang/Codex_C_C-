@@ -1,0 +1,12 @@
+# ninja log v5
+7	48	0	C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-testQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	fb27f6a2f3573c28
+1	1150	6919795411138380	testQt_autogen/timestamp	74e186715fc6e420
+1	1150	6919795411138380	testQt_autogen/mocs_compilation.cpp	74e186715fc6e420
+1	1150	6919795411138380	C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-testQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/testQt_autogen/timestamp	74e186715fc6e420
+1	1150	6919795411138380	C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-testQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/testQt_autogen/mocs_compilation.cpp	74e186715fc6e420
+1157	4620	6919795448396976	CMakeFiles/testQt.dir/testQt_autogen/mocs_compilation.cpp.obj	6f95fb1b3a5e500c
+1151	4706	6919795449358328	CMakeFiles/testQt.dir/mainwindow.cpp.obj	e64885f9df88c1cb
+1154	4727	6919795449620814	CMakeFiles/testQt.dir/main.cpp.obj	84d4cfed7424dfee
+4728	4995	6919795452211212	testQt.exe	c57fcbd9a07ea254
+7	41	0	C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-testQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	fb27f6a2f3573c28
+7	40	0	C:/Users/Miki_Biboy/Documents/Genesis/Codex_C_C++/Plateforme_C_C++/build-testQt-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	fb27f6a2f3573c28
